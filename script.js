@@ -113,7 +113,7 @@ backFour.addEventListener('click',() =>{
 })
 
 function recipe(){
-    const deadline = new Date ("August 03 , 2022 13:34");
+    const deadline = new Date ("January 03 , 2024 13:34");
     const myDate = new Date();
     const diff = deadline - myDate;
     
